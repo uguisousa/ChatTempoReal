@@ -49,5 +49,5 @@ var firebaseConfig = {
 };
 ```
 
-### Contribuições
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
