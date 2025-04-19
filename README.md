@@ -1,4 +1,4 @@
-<img src="cap"></img>
+<img src="cap.png"></img>
 
 #  Chat em Tempo Real
 
