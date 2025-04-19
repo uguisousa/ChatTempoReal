@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="capp.png"></img>
 </div>
 
 ## Chat em Tempo Real
