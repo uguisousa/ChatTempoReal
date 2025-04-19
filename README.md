@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="capp.png"></img>
+    <img width="500" src="capp.png"></img>
 </div>
 
 ## Chat em Tempo Real
