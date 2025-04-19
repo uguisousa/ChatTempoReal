@@ -1,21 +1,21 @@
-# 💬 Chat em Tempo Real
+#  Chat em Tempo Real
 
 Este é um projeto de **chat em tempo real** desenvolvido utilizando **HTML**, **CSS** e **JavaScript** puro, com **Firebase** para gerenciar a autenticação e as mensagens. O chat permite que os usuários se conectem e troquem mensagens instantaneamente.
 
-## ✅ Como funciona
+##  Como funciona
 
 1.  Ao acessar o site, o usuário será solicitado a **informar um nome de exibição**.
 2.  Em seguida, o usuário escolherá entre **4 avatares predefinidos** para representar sua identidade no chat.
 3.  Com o nome e avatar escolhidos, o usuário estará pronto para interagir no chat em tempo real com outros usuários.
 4. Veja o vídeo do <b>Chat Tempo Real</b> funcionando: <a href="">Clique aqui</a>
 
-## 🚀 Tecnologias usadas
+##  Tecnologias usadas
 
 -   **Firebase Realtime Database**: Para o armazenamento e sincronização em tempo real das mensagens.
 -   **Firebase Authentication**: Para gerenciar a autenticação do usuário.
 -   **HTML**, **CSS** e **JavaScript**: Para o desenvolvimento da interface e funcionalidade do chat.
 
-## 🛠️ Como rodar o projeto
+##  Como rodar o projeto
 
 Para rodar este projeto localmente, siga os seguintes passos:
 
