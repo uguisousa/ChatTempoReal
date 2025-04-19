@@ -29,7 +29,7 @@ git clone [https://github.com/uguisousa/ChatTempoReal.git](https://github.com/ug
 1. Acesse o <a href="https://console.firebase.google.com/u/0/">Firebase Console</a>.
 2. Crie um novo projeto no console.
 3. Após criar o projeto, vá até as <b>Configurações do Projeto</b> clicando no ícone de engrenagem no canto superior esquerdo.
-4. Na seção `Configurações do Firebase > <b>SDK do Firebase para Web`, você encontrará as credenciais necessárias para a configuração do seu Firebase.
+4. Na seção `Configurações do Firebase > SDK do Firebase para Web`, você encontrará as credenciais necessárias para a configuração do seu Firebase.
 
 ### 3. Configure as credenciais do Firebase no Projeto
 1. Abra o arquivo `index.js` localizado no seu projeto.
