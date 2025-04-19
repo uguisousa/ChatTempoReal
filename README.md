@@ -7,7 +7,7 @@ Este é um projeto de **chat em tempo real** desenvolvido utilizando **HTML**, *
 1.  Ao acessar o site, o usuário será solicitado a **informar um nome de exibição**.
 2.  Em seguida, o usuário escolherá entre **4 avatares predefinidos** para representar sua identidade no chat.
 3.  Com o nome e avatar escolhidos, o usuário estará pronto para interagir no chat em tempo real com outros usuários.
-4. Veja o vídeo do <b>Chat Tempo Real</b> funcionando: <a href="">Clique aqui</a>
+4. Veja o vídeo do <b>Chat Tempo Real</b> funcionando: <a href="https://www.youtube.com/watch?v=APGqs0_CUeM">Clique aqui</a>
 
 ##  Tecnologias usadas
 
