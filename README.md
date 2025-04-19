@@ -1,9 +1,9 @@
 <div align="center">
     <h1>Chat em Tempo Real</h1>
-</div>
+
 
 Este é um projeto de **chat em tempo real** desenvolvido utilizando **HTML**, **CSS** e **JavaScript** puro, com **Firebase** para gerenciar a autenticação e as mensagens. O chat permite que os usuários se conectem e troquem mensagens instantaneamente.
-
+</div>
 ##  Como funciona
 
 1.  Ao acessar o site, o usuário será solicitado a **informar um nome de exibição**.
