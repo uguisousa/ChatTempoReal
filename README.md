@@ -1,8 +1,9 @@
+# Bate-papo ao vivo!!
+
 <div>
     <img width="500" src="capp.png"></img>
 </div>
 
-## Chat em Tempo Real
 
 Este é um projeto de **chat em tempo real** desenvolvido utilizando **HTML**, **CSS** e **JavaScript** puro, com **Firebase** para gerenciar a autenticação e as mensagens. O chat permite que os usuários se conectem e troquem mensagens instantaneamente.
 
