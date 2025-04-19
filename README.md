@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <img width="500" src="capp.png"></img>
 </div>
 
