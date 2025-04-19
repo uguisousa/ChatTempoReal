@@ -22,7 +22,7 @@ Para rodar este projeto localmente, siga os seguintes passos:
 ### 1. Clone este repositório:
 
 ```bash
-git clone [https://github.com/uguisousa/ChatTempoReal.git](https://github.com/uguisousa/ChatTempoReal.git)
+git clone https://github.com/uguisousa/ChatTempoReal.git
 ```
 ### 2. Crie um projeto no Firebase
 
