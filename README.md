@@ -1,5 +1,6 @@
+<p aling="center">
 #  Chat em Tempo Real
-
+</p>
 Este é um projeto de **chat em tempo real** desenvolvido utilizando **HTML**, **CSS** e **JavaScript** puro, com **Firebase** para gerenciar a autenticação e as mensagens. O chat permite que os usuários se conectem e troquem mensagens instantaneamente.
 
 ##  Como funciona
